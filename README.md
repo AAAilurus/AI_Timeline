@@ -5,7 +5,7 @@ This timeline outlines the most important events in the evolution of AI and ML, 
 
 1763 – Bayes' Theorem  
 Bayes' Theorem is proposed by Reverend Thomas Bayes, providing a way to calculate probabilities.  
-![Bayes Theorem](https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Bayes_theorem_diagram.svg/512px-Bayes_theorem_diagram.svg.png)
+![Bayes Theorem](https://wikimedia.org/api/rest_v1/media/math/render/svg/4211e3e7c3482573cdfbc0653d48a6279104c899)
 
 
  1950 – Turing Test  
@@ -14,7 +14,7 @@ Alan Turing proposes a test to determine a machine's ability to exhibit intellig
 
 1956 – Dartmouth Conference  
 The term "Artificial Intelligence" is coined at this conference led by John McCarthy.  
- ![Dartmouth](https://upload.wikimedia.org/wikipedia/commons/e/e4/John_McCarthy_at_the_Computer_History_Museum.jpg)
+ ![Dartmouth](https://en.wikipedia.org/wiki/Dartmouth_Conference#/media/File:Dartmouth-Moscow_2008.jpg)
 
 1967 – Nearest Neighbor Algorithm  
 One of the earliest machine learning algorithms is developed.
